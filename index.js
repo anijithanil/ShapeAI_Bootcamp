@@ -8,13 +8,7 @@ import Info from "./components/Info";
 ReactDOM.render(
   <div>
     <App />
-    <Header />
-    <Footer />
-    <Info />
-    <Info />
-    <Info />
-    <Info />
-    <Info />
+
   </div>,
   document.getElementById("root")
 );
